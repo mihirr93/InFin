@@ -1,4 +1,4 @@
-# streamlit-multipage-template
+# InFin
 
 A streamlit multipage app template for geospatial applications. It can be deployed to [Streamlit Cloud](https://streamlit.io/cloud), [Heroku](https://heroku.com/), or [MyBinder](https://mybinder.org/).
 
